@@ -12,9 +12,16 @@ class Solution {
       }
     }
     
+    // Given the constraints provided by the problem 
+    // we shall never reach this point
     fatalError()
+  }
+  
+  func singleNumberOptimized(_ nums: [Int]) -> Int {
+    return nums.reduce(0, ^)
   }
 }
 
 let s = Solution()
 s.singleNumber([4,1,2,1,2])
+s.singleNumberOptimized([4,1,2,1,2])
