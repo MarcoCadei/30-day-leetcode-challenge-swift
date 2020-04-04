@@ -11,6 +11,7 @@ For each day of the challenge I have setup a folder which contains the *playgrou
 
 ### Solutions
 - [Day 01](https://github.com/MarcoCadei/30-day-leetcode-challenge-swift/tree/master/day01)
+- [Day 02](https://github.com/MarcoCadei/30-day-leetcode-challenge-swift/tree/master/day02)
 
 ## Contributing
 
