@@ -9,6 +9,9 @@ I bet I will learn tons of things. 💪
 
 For each day of the challenge I have setup a folder which contains the *playground* with the solution and a *README.md* with the original text given by *LeetCode* and how I approached the problem.
 
+### Solutions
+- [Day 01](https://github.com/MarcoCadei/30-day-leetcode-challenge-swift/tree/master/day01)
+
 ## Contributing
 
 Everyone is welcomed to contribute to this project. 

@@ -1,12 +1,12 @@
 class Solution {
   func singleNumber(_ nums: [Int]) -> Int {
-    var occurencies: [Int: Int] = [:]
+    var occurrences: [Int: Int] = [:]
     
     for num in nums {
-      occurencies[num, default: 0] += 1 
+      occurrences[num, default: 0] += 1 
     }
     
-    for (key, value) in occurencies {
+    for (key, value) in occurrences {
       if value == 1 {
         return key
       }
