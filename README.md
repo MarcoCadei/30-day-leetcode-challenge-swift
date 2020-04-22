@@ -34,4 +34,5 @@ For each day of the challenge I have setup a folder which contains the *playgrou
 ## Contributing
 
 Everyone is welcomed to contribute to this project. 
-You can contribute either by submitting bugs or suggesting improvements by opening an issue on GitHub.
+You can contribute either by submitting bugs or suggesting improvements by opening an issue on GitHub.  
+PR are welcome as well, of course. :)
