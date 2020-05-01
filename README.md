@@ -37,6 +37,7 @@ For each day of the challenge I have setup a folder which contains the *playgrou
 - [Day 25](https://github.com/MarcoCadei/30-day-leetcode-challenge-swift/tree/master/day25)
 - [Day 26](https://github.com/MarcoCadei/30-day-leetcode-challenge-swift/tree/master/day26)
 - [Day 27](https://github.com/MarcoCadei/30-day-leetcode-challenge-swift/tree/master/day27)
+- [Day 28](https://github.com/MarcoCadei/30-day-leetcode-challenge-swift/tree/master/day28)
 
 ## Contributing
 
