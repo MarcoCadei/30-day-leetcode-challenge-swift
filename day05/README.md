@@ -41,4 +41,4 @@ A brute force approach would be to check all the possible non-overlapping subarr
 It is enough to recognize that every time stock price value increases we have to sell immediately. It is in fact counterproductive to sell only when the difference between the current price and the min price so far is maximum because we would risk to burn some profits if there are some valleys and peaks between them.
 
 ### Optimizations
-There's not much to optimize here since **time complexity(n) = O(n)** and **space complexity(n) = O(n)**.
+There's not much to optimize here since **time complexity(n) = O(n)** and **space complexity(n) = O(n)** (if we consider the input array in the space complexity).
