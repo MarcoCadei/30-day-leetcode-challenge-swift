@@ -35,8 +35,8 @@ Output: 42
 
 This problem is relative to trees and as always when talking about trees a recursive solution can be really easy and concise to write. This is also the case.  
 While in a `node` we can compute the maximum path just going down from `left` and maximum path going down from the `right`. Once we have these two values we can update the result as `max(result, left + right + node.val)`, whilst returning as value of the function the `max(left, right) + node.val`.  
-Traversing the tree in this way we can compute the result traversing each node just once, hence **time complexity(n) = O(n)** and **space complexity(n) = O(1)**.
+Traversing the tree in this way we can compute the result traversing each node just once, hence **time complexity(n) = O(n)** and **space complexity(n) = O(n)** (the space complexity accounts the memory needed to store the input).
 
 ### Optimizations
 
-Given **time complexity(n) = O(n)** and **space complexity(n) = O(1)** I don't how to improve on this since we have to look at each node of the tree in order to compute the solution. Let me know if you have any idea! :).
+Given **time complexity(n) = O(n)** and **space complexity(n) = O(n)** I don't how to improve on this since we have to look at each node of the tree in order to compute the solution. Let me know if you have any idea! :).

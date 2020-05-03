@@ -48,8 +48,8 @@ In fact to solve this problem is enough to perform a `DFS` adding an additional 
 - if `index == arr.count - 1` we return `node.isLeaf`
 - otherwise return whether the condition is satisfied going down right `or` left
 
-This solution has **time complexity(n) = O(n)** and **space complexity(n) = O(1)**.  
+This solution has **time complexity(n) = O(n)** and **space complexity(n) = O(n)** (the space complexity accounts the memory needed to store the input).  
 
 ### Optimizations
 
-Given **time complexity(n) = O(n)** and **space complexity(n) = O(1)** I don't how to improve on this since in the worst case we have to look at each node of the tree in order to compute the solution. Let me know if you have any idea! :).
+Given **time complexity(n) = O(n)** and **space complexity(n) = O(n)** I don't how to improve on this since in the worst case we have to look at each node of the tree in order to compute the solution. Let me know if you have any idea! :).
